@@ -3,21 +3,21 @@ import './App.sass';
 export default function App() {
   return (
     <div className='base'>
-        <div className='хуйня1'>
+        <div className='base1'>
         <div className='paletteColor'>
             <div className='darkBlue'></div>
             <div className='white'></div>
             <div className='darkGreen'></div>
         </div>
         <div className='block'>
-            <div className='хуйня2'>
+            <div className='block1'>
                 <h1 className='logoName'>Bioface</h1>
                 <div className='navigation'>
                     <p className='navigationText'>Reviews</p>
                     <p className='navigationText'>Best Seller</p>
                     <p className='navigationText'>Contac Us </p>
                 </div>
-                <div className='хуйня3'>
+                <div className='block3'>
                     <div className='SingUp'>
                         <p className='text1'>Sing Up</p>
                     </div>
